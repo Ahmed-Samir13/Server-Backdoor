@@ -1,2 +1,5 @@
 # Server-Backdoor
-Can use it to
+Can use it to:
+* Get system info
+* List directory Content
+
